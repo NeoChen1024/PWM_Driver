@@ -1,0 +1,7 @@
+output_files
+greybox_tmp
+incremental_db
+simulation
+db
+.qsys_edit
+*.bak
