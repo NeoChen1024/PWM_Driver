@@ -29,6 +29,7 @@ pwm_driver
 	.clk_pwm(pwm_clk),
 	.btn0(button_pos),
 	.led(led0),
+//	.data_out()
 );
 
 endmodule
